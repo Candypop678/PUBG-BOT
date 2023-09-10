@@ -10,7 +10,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>‣ ʟᴀɴɢᴜᴀɢᴇ  :<a href=https://www.python.org/> ᴘʏᴛʜᴏɴ  </a></b>
 <b>‣ ᴅᴀᴛᴀ ʙᴀsᴇ :<a href=https://www.mongodb.com/> ᴍᴏɴɢᴏ ᴅʙ </a></b>
 <b>‣ ʜᴏsᴛᴇᴅ ᴏɴ :<a href=http://heroku.com/> ʜᴇʀᴏᴋᴜ </a></b>
-<b>‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ3.1.62 [sᴛᴀʙʟᴇ]</b>"""
+<b>‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : V1.2 </b>"""
 
     SOURCE_TXT = """
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ NOT Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
