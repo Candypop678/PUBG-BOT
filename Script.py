@@ -6,7 +6,7 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : {}</b>
-<b>‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ :<a href=https://t.me/+G_bhcbiyg-dkOTll> 𝚃𝙼𝚆_𝙱𝙾𝚃𝚉𝚂 </a></b>
+<b>‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ1 :<a href=https://t.me/+G_bhcbiyg-dkOTll> 𝚃𝙼𝚆_𝙱𝙾𝚃𝚉𝚂 </a></b>
 <b>‣ ʟᴀɴɢᴜᴀɢᴇ  :<a href=https://www.python.org/> ᴘʏᴛʜᴏɴ  </a></b>
 <b>‣ ᴅᴀᴛᴀ ʙᴀsᴇ :<a href=https://www.mongodb.com/> ᴍᴏɴɢᴏ ᴅʙ </a></b>
 <b>‣ ʜᴏsᴛᴇᴅ ᴏɴ :<a href=http://heroku.com/> ʜᴇʀᴏᴋᴜ </a></b>
